@@ -1,0 +1,1023 @@
+{
+    "questions": [
+      {
+        "question": "Which command is used to execute a 'C' program in the terminal?",
+        "choices": ["A. run", "B. execute", "C. compile", "D. debug"],
+        "correct_answer": "B. execute"
+      },
+      {
+        "question": "What is the purpose of debugging a 'C' program?",
+        "choices": ["A. To find and fix errors in the program", "B. To compile the program", "C. To execute the program", "D. To optimize the program"],
+        "correct_answer": "A. To find and fix errors in the program"
+      },
+      {
+        "question": "Which of the following is NOT a step in the 'C' program development life cycle?",
+        "choices": ["A. Analysis", "B. Execution", "C. Design", "D. Testing"],
+        "correct_answer": "B. Execution"
+      },
+      {
+        "question": "What is the main function in a 'C' program?",
+        "choices": ["A. The first function to be executed", "B. A function that contains other functions", "C. A function that prints the program output", "D. A function to end the program"],
+        "correct_answer": "A. The first function to be executed"
+      },
+      {
+        "question": "Which of the following statements is true about the structure of a 'C' program?",
+        "choices": [
+          "A. It must contain a main function",
+          "B. It must always start with #include statement",
+          "C. It must have at least one loop",
+          "D. It must be saved with a .txt extension"
+        ],
+        "correct_answer": "A. It must contain a main function"
+      }
+    ]
+};
+
+{
+    "MCQs": [
+      {
+        "question": "Which command is used to execute a 'C' program in the terminal?",
+        "choices": {
+          "A": "gcc",
+          "B": "run",
+          "C": "execute",
+          "D": "./a.out"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "What is the purpose of a debugger in 'C' programming?",
+        "choices": {
+          "A": "To compile the program",
+          "B": "To execute the program",
+          "C": "To analyze and fix errors in the program",
+          "D": "To write the program"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "Which of the following is NOT a step in the 'C' program development life cycle?",
+        "choices": {
+          "A": "Analysis",
+          "B": "Documentation",
+          "C": "Execution",
+          "D": "Deprecation"
+        },
+        "answer": "D"
+      }
+    ]
+};
+  
+
+{
+    "questions": [
+      {
+        "question": "Which of the following steps are involved in executing and debugging a 'C' program?",
+        "choices": {
+          "A": "Compiling",
+          "B": "Linking",
+          "C": "Running",
+          "D": "Debugging"
+        },
+        "correct_answer": "A,B,C,D"
+      },
+      {
+        "question": "Which of the following is involved in the evaluation of 'C' Language?",
+        "choices": {
+          "A": "Syntax Analysis",
+          "B": "Semantic Analysis",
+          "C": "Code Optimization",
+          "D": "Code Generation"
+        },
+        "correct_answer": "A,B"
+      },
+      {
+        "question": "Which of the following describes the correct structure of a 'C' program?",       
+        "choices": {
+          "A": "Header files, main function, function definitions",
+          "B": "Function definitions, header files, main function",
+          "C": "Main function, header files, function definitions",
+          "D": "Function definitions, main function, header files"
+        },
+        "correct_answer": "A"
+      },
+      {
+        "question": "Which of the following are involved in the 'C' program development life cycle?", 
+        "choices": {
+          "A": "Requirement analysis",
+          "B": "Design",
+          "C": "Implementation",
+          "D": "Testing"
+        },
+        "correct_answer": "A,B,C,D"
+      },
+      {
+        "question": "What are the steps involved in executing and debugging a 'C' program?",
+        "choices": {
+          "A": "Compiling",
+          "B": "Linking",
+          "C": "Running",
+          "D": "Debugging"
+        },
+        "correct_answer": "A,B,C,D"
+      }
+    ]
+}
+
+{
+  "mcqs": [
+    {
+      "question": "What is the purpose of executing a 'C' program?",
+      "choices": {
+        "A": "To see the output",
+        "B": "To check for errors",
+        "C": "To understand the program flow",
+        "D": "All of the above"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "Which command is used to compile a 'C' program?",
+      "choices": {
+        "A": "gcc",
+        "B": "execute",
+        "C": "debug",
+        "D": "run"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "What does the 'printf' function do in a 'C' program?",
+      "choices": {
+        "A": "Prints the output to the console",
+        "B": "Reads input from the user",
+        "C": "Performs arithmetic operations",
+        "D": "None of the above"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "What is the purpose of debugging a 'C' program?",
+      "choices": {
+        "A": "To find and fix errors in the program",
+        "B": "To understand the program flow",
+        "C": "To optimize the program",
+        "D": "All of the above"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which command is used to run a 'C' program?",
+      "choices": {
+        "A": "execute",
+        "B": "run",
+        "C": "gcc",
+        "D": "debug"
+      },
+      "correct_answer": "B"
+    }
+  ]
+}
+
+
+{
+    "MCQs": [
+        {
+            "question": "Which debugging technique allows you to execute your program one line at a time?",
+            "choices": {
+                "A": "Step-by-step debugging",
+                "B": "Breakpoint debugging",
+                "C": "Print debugging",
+                "D": "Assertion debugging"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question": "What is the purpose of the 'main' function in a C program?",
+            "choices": {
+                "A": "To indicate the starting point of the program",
+                "B": "To define user-defined functions",
+                "C": "To include header files",
+                "D": "To declare global variables"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question": "Which statement is true about the life cycle of a C program?",       
+            "choices": {
+                "A": "It starts with the writing of the program and ends with its execution", 
+                "B": "It starts with the compilation of the program and ends with its execution",
+                "C": "It starts with the execution of the program and ends with its termination",
+                "D": "It starts with testing of the program and ends with its optimization"   
+            },
+            "correct_answer": "C"
+        }
+    ]
+}
+:{
+  "MCQs": [
+    {
+      "question": "What is the purpose of executing a 'C' program?",
+      "choices": {
+        "A": "To check the correctness of syntax",
+        "B": "To verify the output",
+        "C": "To find and fix any logical errors",
+        "D": "All of the above"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "Which of the following is a correct way to debug a 'C' program?",
+      "choices": {
+        "A": "Using print statements",
+        "B": "Using a debugger tool",
+        "C": "Inspecting variable values",
+        "D": "All of the above"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "What is the role of a preprocessor in 'C' program evaluation?",
+      "choices": {
+        "A": "Removes comments from the code",
+        "B": "Includes header files",
+        "C": "Performs macro expansion",
+        "D": "All of the above"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "Which of the following components are included in the structure of a 'C' program?",
+      "choices": {
+        "A": "Preprocessor directives",
+        "B": "Function declaration",
+        "C": "Function definition",
+        "D": "All of the above"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "What is the first step in the 'C' program development life cycle?",
+      "choices": {
+        "A": "Identifying the problem",
+        "B": "Writing the code",
+        "C": "Compiling the code",
+        "D": "Testing the code"
+      },
+      "correct_answer": "A"
+    }
+  ]
+}
+{
+  "questions": [
+    {
+      "question": "Which command is used to compile a C program?",
+      "choices": {
+        "A": "gcc",
+        "B": "javac",
+        "C": "python",
+        "D": "c++"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "What is the default return type of a C program if not specified explicitly?",        
+      "choices": {
+        "A": "int",
+        "B": "void",
+        "C": "float",
+        "D": "char"
+      },
+      "correctAnswer": "int"
+    },
+    {
+      "question": "Which symbol is used to denote the start of a comment in C?",
+      "choices": {
+        "A": "//",
+        "B": "/*",
+        "C": "#",
+        "D": "--"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Which function is used to print characters to the console in C?",
+      "choices": {
+        "A": "scanf",
+        "B": "printf",
+        "C": "gets",
+        "D": "puts"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Which option is used to enable debugging information while compiling a C program using gcc?",
+      "choices": {
+        "A": "-g",
+        "B": "-O3",
+        "C": "-Wall",
+        "D": "-fPIC"
+      },
+      "correctAnswer": "A"
+    }
+  ]
+}
+{
+  "questions": [
+    {
+      "question": "Which tools are used for executing and debugging a 'C' program?",
+      "choices": {
+        "A": "GCC, GDB",
+        "B": "Visual Studio, Xcode",
+        "C": "Eclipse, NetBeans",
+        "D": "Notepad, Terminal"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "What is the process of evaluating a 'C' language expression called?",
+      "choices": {
+        "A": "Compilation",
+        "B": "Execution",
+        "C": "Evaluation",
+        "D": "Debugging"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "Which of the following is the correct structure of a 'C' program?",
+      "choices": {
+        "A": "Preprocessor directives, Function Declarations, Main function, User-defined functions",   
+        "B": "Main function, Preprocessor directives, Function Declarations, User-defined functions",   
+        "C": "Function Declarations, Main function, Preprocessor directives, User-defined functions",   
+        "D": "Function Declarations, User-defined functions, Main function, Preprocessor directives"    
+      },
+      "answer": "B"
+    },
+    {
+      "question": "What is the correct order in the 'C' program development life cycle?",
+      "choices": {
+        "A": "Design, Coding, Testing, Debugging",
+        "B": "Coding, Design, Testing, Debugging",
+        "C": "Design, Testing, Coding, Debugging",
+        "D": "Debugging, Testing, Design, Coding"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "What is the purpose of executing and debugging a 'C' program?",
+      "choices": {
+        "A": "To check for syntax errors",
+        "B": "To find and fix logical errors",
+        "C": "To measure program performance",
+        "D": "To optimize the program code"
+      },
+      "answer": "B"
+    }
+  ]
+}
+response value :{
+  "MCQs": [
+    {
+      "question": "Which command is used to execute a 'C' program on UNIX/LINUX system?",
+      "choices": {
+        "A": "gcc",
+        "B": "cc",
+        "C": "run",
+        "D": "exec"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which command is used to compile a 'C' program without linking it?",
+      "choices": {
+        "A": "gcc -c",
+        "B": "cc -c",
+        "C": "gcc -o",
+        "D": "cc -o"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which command is used to compile and link a 'C' program?",
+      "choices": {
+        "A": "gcc -c",
+        "B": "cc -c",
+        "C": "gcc -o",
+        "D": "cc -o"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "Which command is used to debug a 'C' program using GDB?",
+      "choices": {
+        "A": "gdb",
+        "B": "debug",
+        "C": "cdebug",
+        "D": "cgdb"
+      },
+      "correct_answer": "A"
+    }
+  ]
+}
+
+{
+  "MCQs": [
+    {
+      "question": "What is the first step in executing a 'C' program?",
+      "choices": {
+        "A": "Preprocessing",
+        "B": "Compiling",
+        "C": "Linking",
+        "D": "Executing"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "What is the second step in executing a 'C' program?",
+      "choices": {
+        "A": "Preprocessing",
+        "B": "Compiling",
+        "C": "Linking",
+        "D": "Executing"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "What is the third step in executing a 'C' program?",
+      "choices": {
+        "A": "Preprocessing",
+        "B": "Compiling",
+        "C": "Linking",
+        "D": "Executing"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "What is the final step in executing a 'C' program?",
+      "choices": {
+        "A": "Preprocessing",
+        "B": "Compiling",
+        "C": "Linking",
+        "D": "Executing"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "question": "Which function is used to print characters in 'C' language?",
+      "choices": {
+        "A": "printf",
+        "B": "scanf",
+        "C": "gets",
+        "D": "puts"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Which operator is used for conditional execution of a statement in 'C'?",
+      "choices": {
+        "A": "if",
+        "B": "for",
+        "C": "while",
+        "D": "do-while"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Which keyword is used to declare a structure in 'C'?",
+      "choices": {
+        "A": "struct",
+        "B": "class",
+        "C": "object",
+        "D": "type"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Which phase of the 'C' program development life cycle involves designing the program structure?",
+      "choices": {
+        "A": "Analysis",
+        "B": "Design",
+        "C": "Coding",
+        "D": "Testing"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Which phase of the 'C' program development life cycle involves writing the code?",    
+      "choices": {
+        "A": "Analysis",
+        "B": "Design",
+        "C": "Coding",
+        "D": "Testing"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Which phase of the 'C' program development life cycle involves verifying the program functionality?",
+      "choices": {
+        "A": "Analysis",
+        "B": "Design",
+        "C": "Coding",
+        "D": "Testing"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "question": "Which option is used to debug a 'C' program in the gcc compiler?",
+      "choices": {
+        "A": "-g",
+        "B": "-o",
+        "C": "-c",
+        "D": "-I"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Which command is used to execute a 'C' program in the gcc compiler?",
+      "choices": {
+        "A": "./a.out",
+        "B": "gcc",
+        "C": "make",
+        "D": "run"
+      },
+      "correctAnswer": "A"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "Function Pointers": [
+    {
+      "question": "What is a function pointer in C?",
+      "choices": {
+        "A": "A pointer that holds address of a variable",
+        "B": "A pointer that holds address of a function",
+        "C": "A pointer that holds address of a structure",
+        "D": "A pointer that holds address of an array"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which of the following is true about function pointers?",
+      "choices": {
+        "A": "Function pointers can be used to call functions indirectly",
+        "B": "The syntax to declare a function pointer is similar to that of declaring a normal pointer",
+        "C": "Function pointers can be passed as arguments to other functions",
+        "D": "All of the above"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "What is the purpose of using function pointers in C?",
+      "choices": {
+        "A": "To provide a flexible way of calling different functions dynamically",
+        "B": "To reduce code duplication by reusing common functionality through function pointers",   
+        "C": "To implement callback functions",
+        "D": "All of the above"
+      },
+      "correct_answer": "D"
+    }
+  ],
+  "Memory Management": [
+    {
+      "question": "What is dynamic memory allocation in C?",
+      "choices": {
+        "A": "Allocation of memory at compile-time",
+        "B": "Allocation of memory at runtime",
+        "C": "Allocation of memory on stack",
+        "D": "Allocation of memory on heap"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "Which function is used to allocate memory dynamically in C?",
+      "choices": {
+        "A": "malloc",
+        "B": "calloc",
+        "C": "realloc",
+        "D": "All of the above"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "What is the purpose of the free() function in C?",
+      "choices": {
+        "A": "To deallocate memory allocated dynamically",
+        "B": "To allocate memory dynamically",
+        "C": "To reallocate memory dynamically",
+        "D": "None of the above"
+      },
+      "correct_answer": "A"
+    }
+  ],
+  "File I/O": [
+    {
+      "question": "What is file I/O in C?",
+      "choices": {
+        "A": "Input and output operations performed on files",
+        "B": "Input and output operations performed on standard input/output",
+        "C": "Input and output operations performed on memory",
+        "D": "Input and output operations performed on network sockets"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which function is used to open a file in C?",
+      "choices": {
+        "A": "fopen",
+        "B": "fclose",
+        "C": "fwrite",
+        "D": "fread"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "How do you read from a file in C?",
+      "choices": {
+        "A": "fscanf",
+        "B": "fgets",
+        "C": "fgetc",
+        "D": "All of the above"
+      },
+      "correct_answer": "D"
+    }
+  ],
+  "Preprocessor Directives": [
+    {
+      "question": "What are preprocessor directives in C?",
+      "choices": {
+        "A": "Instructions for the compiler to perform specific tasks before the compilation process", 
+        "B": "Instructions for the compiler to optimize the code",
+        "C": "Instructions for the compiler to perform specific tasks after the compilation process",  
+        "D": "Instructions for the compiler to skip specific parts of the code"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which symbol is used to indicate a preprocessor directive in C?",
+      "choices": {
+        "A": "#",
+        "B": "$",
+        "C": "&",
+        "D": "@"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "What is the purpose of the #define directive in C?",
+      "choices": {
+        "A": "To define constants",
+        "B": "To include header files",
+        "C": "To declare variables",
+        "D": "To declare functions"
+      },
+      "correct_answer": "A"
+    }
+  ]
+}
+Reference: intermediate
+
+
+
+
+
+ {
+  "Function Pointers": [
+    {
+      "question": "Which of the following statements are true about function pointers in C?",
+      "choices": {
+        "A": "Function pointers can be used to create arrays of functions.",
+        "B": "Function pointers cannot be passed as arguments to other functions.",
+        "C": "Function pointers can be used to call a function indirectly.",
+        "D": "Function pointers cannot be stored in data structures."
+      },
+      "correct_answer": {
+        "A": true,
+        "B": false,
+        "C": true,
+        "D": false
+      }
+    },
+    {
+      "question": "What is the correct syntax to declare a function pointer in C?",
+      "choices": {
+        "A": "int (*ptr)(int, int);",
+        "B": "int ptr(int, int);",
+        "C": "void *ptr(int, int);",
+        "D": "void (*ptr)(int, int);"
+      },
+      "correct_answer": {
+        "A": true,
+        "B": false,
+        "C": false,
+        "D": true
+      }
+    },
+    {
+      "question": "Which of the following is NOT a valid use of function pointers in C?",
+      "choices": {
+        "A": "Implementing callbacks",
+        "B": "Implementing virtual functions",
+        "C": "Implementing multithreading",
+        "D": "Implementing function overloading"
+      },
+      "correct_answer": {
+        "A": false,
+        "B": false,
+        "C": true,
+        "D": true
+      }
+    }
+  ],
+  "Memory Management": [
+    {
+      "question": "Which of the following functions is used to dynamically allocate memory in C?", 
+      "choices": {
+        "A": "malloc",
+        "B": "free",
+        "C": "calloc",
+        "D": "realloc"
+      },
+      "correct_answer": {
+        "A": true,
+        "B": false,
+        "C": true,
+        "D": true
+      }
+    },
+    {
+      "question": "What happens if the malloc function fails to allocate memory?",
+      "choices": {
+        "A": "It returns NULL",
+        "B": "It throws an exception",
+        "C": "It terminates the program",
+        "D": "It creates a segmentation fault"
+      },
+      "correct_answer": {
+        "A": true,
+        "B": false,
+        "C": false,
+        "D": false
+      }
+    },
+    {
+      "question": "Which of the following statements is true about the free function in C?",       
+      "choices": {
+        "A": "It deallocates the memory pointed to by a pointer",
+        "B": "It can be called multiple times on the same pointer",
+        "C": "It doesn't need to be called explicitly",
+        "D": "It increases the size of the allocated memory block"
+      },
+      "correct_answer": {
+        "A": true,
+        "B": false,
+        "C": false,
+        "D": false
+      }
+    }
+  ],
+  "File I/O": [
+    {
+      "question": "Which of the following modes is used to open a file in C for reading?",
+      "choices": {
+        "A": "r",
+        "B": "w",
+        "C": "a",
+        "D": "b"
+      },
+      "correct_answer": {
+        "A": true,
+        "B": false,
+        "C": false,
+        "D": false
+      }
+    },
+    {
+      "question": "Which function is used to write data to a file in C?",
+      "choices": {
+        "A": "fread",
+        "B": "fprintf",
+        "C": "fgetc",
+        "D": "fputs"
+      },
+      "correct_answer": {
+        "A": false,
+        "B": true,
+        "C": false,
+        "D": false
+      }
+    },
+    {
+      "question": "What is the return type of the fopen function in C?",
+      "choices": {
+        "A": "FILE *",
+        "B": "int",
+        "C": "void",
+        "D": "char *"
+      },
+      "correct_answer": {
+        "A": true,
+        "B": false,
+        "C": false,
+        "D": false
+      }
+    }
+  ],
+  "Preprocessor Directives": [
+    {
+      "question": "Which preprocessor directive is used to include a header file in C?",
+      "choices": {
+        "A": "#include",
+        "B": "#define",
+        "C": "#ifdef",
+        "D": "#ifndef"
+      },
+      "correct_answer": {
+        "A": true,
+        "B": false,
+        "C": false,
+        "D": false
+      }
+    },
+    {
+      "question": "Which preprocessor directive is used to define a macro in C?",
+      "choices": {
+        "A": "#include",
+        "B": "#define",
+        "C": "#ifdef",
+        "D": "#ifndef"
+      },
+      "correct_answer": {
+        "A": false,
+        "B": true,
+        "C": false,
+        "D": false
+      }
+    },
+    {
+      "question": "What does the #ifdef directive check in C?",
+      "choices": {
+        "A": "If a macro is not defined",
+        "B": "If a macro is defined",
+        "C": "If a variable is not defined",
+        "D": "If a variable is defined"
+      },
+      "correct_answer": {
+        "A": false,
+        "B": true,
+        "C": false,
+        "D": false
+      }
+    }
+  ]
+}
+Reference: intermediate
+
+
+
+Generated MCQ JSON: [
+  {
+    "question": "Which of the following is true about function pointers in C?",
+    "choices": {
+      "A": "Function pointers can be used to pass a function as an argument to another function.", 
+      "B": "Function pointers can be used to return a function from another function.",
+      "C": "Function pointers can be used to store the address of a function.",
+      "D": "All of the above."
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question": "Which of the following is NOT a memory management function in C?",
+    "choices": {
+      "A": "malloc()",
+      "B": "calloc()",
+      "C": "free()",
+      "D": "alloc()"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question": "Which of the following is the correct way to open a file in C for writing?",      
+    "choices": {
+      "A": "fopen(\"file.txt\", \"r\")",
+      "B": "fopen(\"file.txt\", \"w\")",
+      "C": "fopen(\"file.txt\", \"a\")",
+      "D": "fopen(\"file.txt\", \"x\")"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which preprocessor directive is used to include a file in C?",
+    "choices": {
+      "A": "#include",
+      "B": "#define",
+      "C": "#ifdef",
+      "D": "#else"
+    },
+    "correct_answer": "A"
+  }
+]
+Reference: intermediate
+
+
+
+
+
+
+
+{
+  "questions": [
+    {
+      "question": "What is the output of the following C code?\n\n#include <stdio.h>\n\nint main()\n{\n    int a = 5;\n    float b = 2.5;\n    printf(\"%d %f\", a, b);\n    return 0;\n}",
+      "answer": "5 2.500000"
+    },
+    {
+      "question": "Which of the following is an invalid C identifier?",
+      "answer": "2myVariable"
+    },
+    {
+      "question": "What is the output of the following C code?\n\n#include <stdio.h>\n\nint main()\n{\n    int x = 5, y = 10;\n    int z = x++ + y;\n    printf(\"%d\", z);\n    return 0;\n}",
+      "answer": "15"
+    },
+    {
+      "question": "Which data type is used to store a single character in C?",
+      "answer": "char"
+    },
+    {
+      "question": "What is the output of the following C code?\n\n#include <stdio.h>\n\nint main()\n{\n    printf(\"%d\", sizeof(float));\n    return 0;\n}",
+      "answer": "4"
+    },
+    {
+      "question": "Which library function is used to read a character from the console in C?",
+      "answer": "getchar"
+    }
+  ]
+}
+
+
+{
+  "questions": [
+    {
+      "question": "What is the purpose of printf() function in C?",
+      "answer": "To display output on the console"
+    },
+    {
+      "question": "What is the purpose of scanf() function in C?",
+      "answer": "To take input from the user"
+    },
+    {
+      "question": "Which operator is used to perform addition in C?",
+      "answer": "+"
+    },
+    {
+      "question": "Which operator is used to perform subtraction in C?",
+      "answer": "-"
+    },
+    {
+      "question": "Which operator is used to perform multiplication in C?",
+      "answer": "*"
+    },
+    {
+      "question": "Which operator is used to perform division in C?",
+      "answer": "/"
+    },
+    {
+      "question": "Which operator is used to calculate the remainder in C?",
+      "answer": "%"
+    },
+    {
+      "question": "Which data type is used to store whole numbers in C?",
+      "answer": "int"
+    },
+    {
+      "question": "Which data type is used to store decimal numbers in C?",
+      "answer": "float"
+    },
+    {
+      "question": "Which data type is used to store single characters in C?",
+      "answer": "char"
+    }
+  ]
+}
